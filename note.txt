@@ -1,0 +1,7 @@
+Attualmente nessuno stretto presenta pedaggi veri e propri (eccezione:dardanelli). Uniche tariffe sono legati a servizi di sicurezza e trasporto (pilotaggio)
+
+Tariffe iniziali per tutti gli stretti: 0 
+Tariffe potenziali (caso hormuz): valori crescenti > 0
+Chisura: inf
+
+strutturazione grafo con arco = collegamento mare-mare/terra-mare/terra-terra
