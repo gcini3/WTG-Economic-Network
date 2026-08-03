@@ -5,3 +5,6 @@ Tariffe potenziali (caso hormuz): valori crescenti > 0
 Chisura: inf
 
 strutturazione grafo con arco = collegamento mare-mare/terra-mare/terra-terra
+
+
+TEST di Pull Giova
